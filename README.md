@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://github.com/aijphy/aijphy/blob/main/githubcover.png" alt="cover image" >
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aijphy&hide=contribs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aijphy&hide=contribs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
