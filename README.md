@@ -1,8 +1,8 @@
 <img src="https://github.com/aijphy/aijphy/blob/main/githubcover.png" alt="cover image" >
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aijphy&theme=gotham)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aijphy&hide=contribs&theme=cobalt&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aijphy&theme=cobalt)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aijphy&hide=contribs&theme=gotham&show_icons=true)
 
 
 <!--
