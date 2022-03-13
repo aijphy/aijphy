@@ -1,7 +1,9 @@
 ### Hi there 👋
 <img src="https://github.com/aijphy/aijphy/blob/main/githubcover.png" alt="cover image" >
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aijphy)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aijphy&hide=contribs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **aijphy/aijphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
