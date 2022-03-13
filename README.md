@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/aijphy/aijphy/githubcover.png" alt="banner that says Alex Johnson, M.S. Physics | MLOps enthusiast">
+<img src="https://github.com/aijphy/aijphy/githubcover.png" alt="cover image">
 <!--
 **aijphy/aijphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
